@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import com.google.common.collect.ImmutableSet;
 import com.reply.test.model.Apple;
-
+import java.lang.String;
 public class JSIntegrationTest {
 
 	@Test
